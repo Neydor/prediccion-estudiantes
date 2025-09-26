@@ -1,0 +1,5 @@
+{
+  "name": "Predictor de Rendimiento Estudiantil",
+  "description": "Una aplicación que utiliza un modelo de Árbol de Decisión simulado por Gemini para predecir si un estudiante aprobará un examen basándose en sus horas de estudio semanales y su porcentaje de asistencia. Visualiza los datos y permite realizar nuevas predicciones.",
+  "requestFramePermissions": []
+}
